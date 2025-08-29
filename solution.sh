@@ -39,7 +39,7 @@ history 20
 
 # 10. Show processes sorted by memory usage
 # Your command here
-ps aux --sort=-=-%mem
+ps aux --sort=-%mem
 #by descending order
 
 # 11. Find all directories named "backup" anywhere on the system
